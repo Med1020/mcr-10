@@ -1,0 +1,18 @@
+.navbar {
+  background-color: black;
+  height: 100vh;
+  position: fixed;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar a.active {
+  color: white;
+}
+
+.menu-items {
+  padding: 20px;
+  text-decoration: none;
+  color: grey;
+}

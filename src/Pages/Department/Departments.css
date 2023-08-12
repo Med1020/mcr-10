@@ -1,0 +1,21 @@
+.departments-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.department-card {
+  margin: 20px;
+}
+
+.department {
+  padding: 30px;
+  margin: 20px;
+  width: 8rem;
+  background-color: rgb(226, 224, 224);
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
